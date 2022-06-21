@@ -11,7 +11,8 @@
 
 - 🔭 I'm research M.S. Student at AIR Lab (on course of the Master of Science, at SeoulTech)
 - 💬 Research field: Net zero, Atmosphere, PEMS, Air pollution, Plant canopy, etc.
-- 📱 Devices I own: Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
+- 📱 Devices I own: iPad Pro 11" 3th (M1), iPhone 11, IM-100S, Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
+- ⚡ Devices I owned: Galaxy S7, Galaxy S3.
 - 🌱 Current learning: CUDA, TensorFlow, Pytorch, C#, Swift.
 - ✔️ Known languages: Python, C++, C.
 - 🤔 I sometimes upload commits for Redmi Note 7 (lavender) to be supported LineageOS.
