@@ -9,12 +9,12 @@
 </a>
 -->
 
-- 🔭 I'm research M.S. Student at AIRLab (on course of the Master of Science, at SeoulTech)
+- 🔭 I'm research M.S. Student at AIR Lab (on course of the Master of Science, at SeoulTech)
 - 💬 Research field: Net zero, Atmosphere, PEMS, Air pollution, Plant canopy, etc.
 - 📱 Devices I own: Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
 - 🌱 Current learning: CUDA, TensorFlow, Pytorch, C#, Swift.
 - ✔️ Known languages: Python, C++, C.
-- 🤔 I'm sometimes upload commits for Redmi Note 7 (lavender) to support LineageOS.
+- 🤔 I sometimes upload commits for Redmi Note 7 (lavender) to be supported LineageOS.
 
 <!--
 **alienatiz/alienatiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
