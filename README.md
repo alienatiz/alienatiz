@@ -1,4 +1,5 @@
 ### &nbsp;&nbsp;&nbsp;Hey👋, AlieNaTiZ here.
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alienatiz&count_private=true&show_icons=true&cache_seconds=43200&locale=en&theme=dracula" />
 </a>
@@ -10,7 +11,7 @@
 -->
 
 - 🔭 I'm research M.S. Student at AIR Lab (on course of the Master of Science, at SeoulTech)
-- 💬 Research field: RF, PEMS, Air pollution, Remote Sensing.
+- 💬 Research field: Air pollution, Fire forest, Remote sensing, GIS.
 - 📱 Devices I own: iPad Pro 11" 3th (M1), iPhone 11, IM-100S, Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
 - ⚡ Devices I owned: Galaxy S7, Galaxy S3.
 - 🌱 Current learning: CUDA, TensorFlow, Pytorch, C#, Swift.
