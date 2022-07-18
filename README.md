@@ -1,14 +1,16 @@
-### &nbsp;&nbsp;&nbsp;Hey👋, AlieNaTiZ here.
+## Hey👋, AlieNaTiZ here.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alienatiz&count_private=true&show_icons=true&cache_seconds=43200&locale=en&theme=dracula" />
-</a>
+[![AlieNaTiZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=alienatiz&count_private=true&show_icons=true&theme=vue)](https://github.com/alienatiz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alienatiz&langs_count=5&layout=compact&theme=vue)](https://github.com/alienatiz?tab=repositories)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alienatiz&langs_count=10&layout=compact&cache_seconds=43200&locale=en&theme=dracula" />
 </a>
 -->
+
+## Introduction myself
 
 - 🔭 I'm research M.S. Student at AIR Lab (on course of the Master of Science, at SeoulTech)
 - 💬 Research field: Air pollution, Fire forest, Remote sensing, GIS.
