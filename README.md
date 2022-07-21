@@ -17,7 +17,8 @@
 - 📱 Devices I own: iPad Pro 11" 3th (M1), iPhone 11, IM-100S, Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
 - ⚡ Devices I owned: Galaxy S7, Galaxy S3.
 - 🌱 Current learning: CUDA, TensorFlow, Pytorch, C#, Swift.
-- ✔️ Known languages: Python, C++, C.
+- ✔️ Known languages: Python, C++, Java, C.
+- ⚡ Hobby: Gunpla, Android developemt, S/W programming, etc.
 - 🤔 I sometimes upload commits for Redmi Note 7 (lavender) to be supported LineageOS.
 
 <!--
