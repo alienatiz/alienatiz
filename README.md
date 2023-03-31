@@ -13,10 +13,10 @@
 ## Introduction myself
 
 - 🔭 I'm research M.S. Student at AIR Lab (on course of the Master of Science, at SeoulTech)
-- 💬 Research field: Air pollution, Fire forest, Remote sensing, GIS, Application applied AI.
-- 📱 Devices I own: iPad Pro 11" 3th (M1), iPhone 11, Raspberry Pi 4B/3B, IM-100S, Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
+- 💬 Research field: Processing multi spectral satellite imagery, Forest fire, Remote sensing, GIS, Application applied AI.
+- 📱 Devices I own: MacBook Pro 14" 2023 (M2 Pro), iPad Pro 11" 3th (M1), iPhone 11, Raspberry Pi 4B/3B, IM-100S, Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
 - ⚡ Devices I owned: Galaxy S7, Galaxy S3.
-- 🌱 Current learning: CUDA, TensorFlow, Swift.
+- 🌱 Current learning: CUDA, PyTorch w/2.0, ESA SNAP.
 - ✔️ Known languages: Python, R, Java, C/C++, SQL.
 - ⚡ Hobby: Gunpla, Android developemt, S/W programming, etc.
 - 🤔 I sometimes upload commits for Redmi Note 7 (lavender) to be supported LineageOS.
