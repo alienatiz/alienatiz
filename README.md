@@ -12,9 +12,9 @@
 
 ## Introduction myself
 
-- 🔭 I'm research M.S. Student at AIR Lab (on course of the Master of Science, at SeoulTech)
+- 🔭 I'm Ph.D Candidate Student at AIR Lab (graudated on the Master of Science, at SeoulTech)
 - 💬 Research field: Processing multi spectral satellite imagery, Forest fire, Remote sensing, GIS, Application applied AI.
-- 📱 Devices I own: MacBook Pro 14" 2023 (M2 Pro), iPad Pro 11" 3th (M1), iPhone 11, Raspberry Pi 4B/3B, IM-100S, Redmi Note 7, Galaxy S6, Galaxy S2 (x3), Galaxy S.
+- 📱 Devices I own: MacBook Pro 14" 2023 (M2 Pro), iPad Pro 11" 3th (M1), iPhone 15 Pro, iPhone 11, iPhone SE 2nd Gen, Raspberry Pi 4B/3B, IM-100S, Redmi Note 7, Galaxy Note 9, Galaxy S6, Galaxy S2 (x3), Galaxy S.
 - ⚡ Devices I owned: Galaxy S7, Galaxy S3.
 - 🌱 Current learning: CUDA, PyTorch w/2.0, ESA SNAP.
 - ✔️ Known languages: Python, R, Java, C/C++, SQL.
